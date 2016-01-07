@@ -1,0 +1,17 @@
+{
+  "name": "generator-slingshot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^0.22.2",
+    "yo": "^1.5.1",
+    "yosay": "^1.1.0"
+  }
+}
