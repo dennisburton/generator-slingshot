@@ -1,5 +1,5 @@
 {
-  "name": "react-slingshot",
+  "name": "<%=appName%>",
   "version": "1.0.1",
   "description": "Starter kit for creating apps with React and Redux",
   "scripts": {
