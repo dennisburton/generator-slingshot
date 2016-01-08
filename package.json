@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "lodash": "^3.10.1",
     "yeoman-generator": "^0.22.2",
     "yo": "^1.5.1",
     "yosay": "^1.1.0"

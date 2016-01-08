@@ -1,7 +1,7 @@
 {
   "name": "<%=appName%>",
   "version": "1.0.1",
-  "description": "Starter kit for creating apps with React and Redux",
+  "description": "<%=appDescription%>",
   "scripts": {
     "prestart": "npm run remove-dist",
     "start": "parallelshell \"npm run test\" \"npm run open\"",
